@@ -19,5 +19,6 @@ http://www.heatsynclabs.org/
 http://phoenixpubliclibrary.evanced.info/signup/EventCalendar.aspx?df=list&nd=14&lib=0
 http://www.meetup.com/GPChandler/
 https://www.meetup.com/Scottsdale-White-Hat-Hacking-Meetup/
+http://www.azhtcia.org/category/meeting-info/
 eventbrite
 meetup
